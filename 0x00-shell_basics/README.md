@@ -12,3 +12,4 @@ cd -, a script that changes the working directory to the previous one
 ls -al . .. /boot,  a script that lists all files
 file /tmp/iamfile, a script that prints the type of the file name
 ln -s /bin/ls __ls__, Create a symbolic link
+cp -un *.html ../, Copy HTML files
