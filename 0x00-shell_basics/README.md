@@ -14,3 +14,4 @@ file /tmp/iamfile, a script that prints the type of the file name
 ln -s /bin/ls __ls__, Create a symbolic link
 cp -un *.html ../, Copy HTML files
 mv [[:upper:]]* /tmp/u, a script that moves all files beginning with an uppercase letter
+rm *~,  a script that deletes all files in the current working directory
