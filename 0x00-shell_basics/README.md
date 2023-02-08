@@ -6,3 +6,4 @@ ls -al, Display current directory contents, including hidden files (starting wit
 ls -lan, display current directory contents
 mkdir /tmp/my_first_directory, create a script that creates a directory
 mv /tmp/betty /tmp/my_first_directory, move a file from one directory to another
+rm /tmp/my_first_directory/betty, delete a file
