@@ -17,4 +17,4 @@ mv [[:upper:]]* /tmp/u, a script that moves all files beginning with an uppercas
 rm *~,  a script that deletes all files in the current working directory
 mkdir -p welcome/to/school, Create a script that creates the directories
 ls -amvp, Life is a series of commas, not periods
-
+0 string SCHOOL School data !:mime School, File type: School
