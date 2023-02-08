@@ -9,3 +9,4 @@ mv /tmp/betty /tmp/my_first_directory, move a file from one directory to another
 rm /tmp/my_first_directory/betty, delete a file
 rm -r /tmp/my_first_directory, remove a directory
 cd -, a script that changes the working directory to the previous one
+ls -al . .. /boot,  a script that lists all files
