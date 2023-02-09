@@ -14,3 +14,4 @@ mkdir -m 751 my_dir, More directories
 chgrp school hello, 13. Change group
 chown vincent:staff *, Owner and group
 chown -h vincent:staff_hello, Symbolic links
+chown --from=guillaume betty hello, If only
