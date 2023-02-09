@@ -9,3 +9,4 @@ chmod ugo+x hello, 7. Everybody
 chmod 007 hello, 8. James Bond
 chmod 753 hello, 9. John Doe
 chmod --reference=olleh hello, 10. Look in the mirror
+chmod -R +111 */, 11. Directories
