@@ -6,3 +6,4 @@ touch hello, Write a script that creates an empty file called hello
 chmod u+x hello, Write a script that adds execute permission to the owner of the file hello
 chmod ug+x,o+r hello, Multiple permissions
 chmod ugo+x hello, 7. Everybody
+chmod 007 hello, 8. James Bond
