@@ -7,3 +7,4 @@ chmod u+x hello, Write a script that adds execute permission to the owner of the
 chmod ug+x,o+r hello, Multiple permissions
 chmod ugo+x hello, 7. Everybody
 chmod 007 hello, 8. James Bond
+chmod 753 hello, 9. John Doe
