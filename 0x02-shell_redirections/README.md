@@ -16,3 +16,4 @@ egrep -C "bin" /etc/passwd
 egrep -A 3 "root" /etc/passwd
 egrep -V "bin" /etc/passwd
 grep -i '^[a-z]' /etc/ssh/sshd_config
+tr 'Ac' 'Ze'
