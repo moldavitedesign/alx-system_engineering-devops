@@ -20,3 +20,4 @@ tr 'Ac' 'Ze'
 tr -d cC
 rev
 cut -d ':' -f 1,6 /etc/passwd | sort
+find . -empty | rev | cut -d '/' | rev
