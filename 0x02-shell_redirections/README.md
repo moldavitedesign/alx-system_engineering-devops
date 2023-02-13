@@ -12,3 +12,4 @@ find . -type f -name "*.js" -delete
 find . -type d ! -path . | wc -1
 sort | uniq -u
 egrep "root" /etc/passwd
+egrep -C "bin" /etc/passwd
