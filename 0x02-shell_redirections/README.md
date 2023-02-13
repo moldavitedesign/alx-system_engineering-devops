@@ -7,3 +7,4 @@ head /etc/passwd
 head -3 iacta | tail -1
 echo "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
 ls -la > ls_cwd_content
+tail -1 iacta >> iacta
