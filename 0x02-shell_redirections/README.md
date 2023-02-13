@@ -11,3 +11,4 @@ tail -1 iacta >> iacta
 find . -type f -name "*.js" -delete
 find . -type d ! -path . | wc -1
 sort | uniq -u
+egrep "root" /etc/passwd
