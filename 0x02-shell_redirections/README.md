@@ -13,3 +13,4 @@ find . -type d ! -path . | wc -1
 sort | uniq -u
 egrep "root" /etc/passwd
 egrep -C "bin" /etc/passwd
+egrep -A 3 "root" /etc/passwd
