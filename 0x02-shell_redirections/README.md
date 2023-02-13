@@ -10,3 +10,4 @@ ls -la > ls_cwd_content
 tail -1 iacta >> iacta
 find . -type f -name "*.js" -delete
 find . -type d ! -path . | wc -1
+sort | uniq -u
