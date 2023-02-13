@@ -18,3 +18,4 @@ egrep -V "bin" /etc/passwd
 grep -i '^[a-z]' /etc/ssh/sshd_config
 tr 'Ac' 'Ze'
 tr -d cC
+rev
